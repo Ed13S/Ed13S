@@ -6,6 +6,10 @@
   [![GitHub Stars](https://img.shields.io/github/stars/Ed13S/Ed13S?style=for-the-badge&color=yellow)](https://github.com/Ed13S/Ed13S/stargazers)
 </p>
 
+<p align="left">
+
+  <img src="https://profile-counter.glitch.me/Ed13S/count.svg" alt="Likes" />
+</p>
 ---
 
 ### 🌐 My Websites & Projects
