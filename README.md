@@ -8,8 +8,6 @@
 
 <p align="left">
 
-  <img src="https://profile-counter.glitch.me/Ed13S/count.svg" alt="Likes" />
-</p>
 ---
 
 ### 🌐 My Websites & Projects
