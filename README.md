@@ -18,7 +18,7 @@ Here are some of the sites I've been working on:
 ### 🚀 About Me
 - 🔭 I’m currently working on Automator Apps and Website Development
 - 🌱 I’m currently learning HTML, CSS, C and C++
-- 📫 How to reach me: [![Message Me](https://img.shields.io/badge/Message%20Me-Click%20Here-orange?style=for-the-badge&logo=messagebird)](https://formspree.io/f/xykkyyjj)
+- 📫 How to reach me: [![Message Me](https://img.shields.io/badge/SEND%20MESSAGE-Formspree-db4437?style=for-the-badge&logo=maildotru&logoColor=white)](https://formspree.io/f/xykkyyjj)
 
 ---
 
