@@ -2,7 +2,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ed13S&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Visitor Count" />
-[![GitHub Stars](https://img.shields.io/github/stars/Ed13S/Ed13S?style=for-the-badge&color=yellow)](https://github.com/Ed13S/Ed13S/stargazers)
+
+  [![GitHub Stars](https://img.shields.io/github/stars/Ed13S/Ed13S?style=for-the-badge&color=yellow)](https://github.com/Ed13S/Ed13S/stargazers)
 </p>
 
 ---
