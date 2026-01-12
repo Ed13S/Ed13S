@@ -16,9 +16,8 @@ Here are some of the sites I've been working on:
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Automator Apps and Website Development
+- 🌱 I’m currently learning HTML, CSS, C and C++
 - 📫 How to reach me: ...
 
 ---
@@ -29,4 +28,3 @@ Here are some of the sites I've been working on:
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ed13S)](https://github.com/ryo-ma/github-profile-trophy)
