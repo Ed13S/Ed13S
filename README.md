@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ed13S&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Visitor Count" />
-  [![Likes](https://v-lyra.vercel.app/api/likes?id=Ed13S&color=pink&label=LIKES&style=for-the-badge)](https://v-lyra.vercel.app/api/likes?id=Ed13S&action=like)
+[![](https://profile-counter.glitch.me/Ed13S/count.svg)](https://github.com/Ed13S/Ed13S)
 </p>
 
 ---
