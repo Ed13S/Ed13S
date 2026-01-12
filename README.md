@@ -19,6 +19,7 @@ Here are some of the sites I've been working on:
 - 🔭 I’m currently working on Automator Apps and Website Development
 - 🌱 I’m currently learning HTML, CSS, C and C++
 - 📫 How to reach me: ...
+- ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
