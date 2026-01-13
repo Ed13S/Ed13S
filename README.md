@@ -22,7 +22,7 @@ Here are some of the sites I've been working on:
 ### 🚀 About Me
 - 🔭 I’m currently working on Automator Apps and Website Development
 - 🌱 I’m currently learning HTML, CSS, C and C++
-- 📫 How to reach me: [Contact Me](https://github.com/Ed13S/Ed13S/issues/new?title=Hello&body=Write%20your%20message%20here)
+- 📫 How to reach me: [Contact Me](https://ed13s.github.io/feedback.html)
 
 ---
 
