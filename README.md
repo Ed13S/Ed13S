@@ -13,7 +13,7 @@
 ### 🌐 My Websites & Projects
 Here are some of the sites I've been working on:
 
-* **Scratch(https://tinyurl.com/Siaoq1)** - *Scratch Profile*
+* **[Scratch](https://tinyurl.com/Siaoq1)** - *Scratch Profile*
 * **[Idle Website](https://tinyurl.com/Idle-website)** - *Interactive Hub*
 * **[Eddie13S main website](https://eddie13s.wordpress.com)** - *Official WordPress Site*
 
