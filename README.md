@@ -20,7 +20,7 @@ Here are some of the sites I've been working on:
 ---
 
 ### 🚀 About Me
-- 🖋️My nameis Eddie Singh
+- 🖋️My name is Eddie Singh
 - 🔭 I’m currently working on Automator Apps and Website Development
 - 🌱 I’m currently learning HTML, CSS, C and C++
 - 📫 How to reach me: [Contact Me](https://ed13s.github.io/feedback.html)
