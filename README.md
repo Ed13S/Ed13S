@@ -12,7 +12,7 @@
 
 ### 🌐 My Websites & Projects
 Here are some of the sites I've been working on:
-
+* **[Applied Caesar Crypotography](https://message-encryptor-yvo6.onrender.com/) - *Main Project*
 * **[Scratch](https://tinyurl.com/Siaoq1)** - *Scratch Profile*
 * **[Idle Website](https://tinyurl.com/Idle-website)** - *Interactive Hub*
 * **[Eddie13S main website](https://eddie13s.wordpress.com)** - *Official WordPress Site*
@@ -20,7 +20,8 @@ Here are some of the sites I've been working on:
 ---
 
 ### 🚀 About Me
-- 🖋️My name is Eddie Singh
+- 🖋️ My name is Eddie Singh
+- 😀 I am Currently 16 years old
 - 🔭 I’m currently working on Automator Apps and Website Development
 - 🌱 I’m currently learning HTML, CSS, C and C++
 - 📫 How to reach me: [Contact Me](https://ed13s.github.io/feedback.html)
