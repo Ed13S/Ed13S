@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,50:6366f1,100:a855f7&text=Eddie%20Singh&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Web%20%E2%80%A2%20Automation%20%E2%80%A2%20Electronics%20%E2%80%A2%20Cryptography&descSize=18&descAlignY=60&animation=fadeIn" alt="Eddie Singh banner" width="100%" />
 
 <a href="https://github.com/Ed13S">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Hi+there!+%F0%9F%91%8B;I+build+websites+and+automator+apps;I+tinker+with+ESP32s+and+Arduino;I+make+interactive+study+tools;Learning+HTML%2C+CSS%2C+C+and+C%2B%2B" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=640&lines=Hi+there!+%F0%9F%91%8B;Build+websites+and+automator+apps;Tinkers+with+ESP32s+and+Arduino;Makes+interactive+study+tools;Learning+HTML%2C+CSS%2C+C+and+C%2B%2B" alt="Typing animation" />
 </a>
 
 <br/>
@@ -25,11 +25,12 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🖋️ **Name:** Eddie Singh
-- 🔭 **Currently working on:** Automator apps and website development
-- 🌱 **Currently learning:** HTML, CSS, C and C++
-- ⚡ **Also into:** microcontrollers (ESP32 / Arduino), cryptography and building study tools
-- 📫 **Reach me:** [Contact form](https://ed13s.github.io/feedback.html)
+- **Name:** Eddie Singh
+- **Age:** 16 Years Old
+- **Currently working on:** Automator apps and website development
+- **Currently learning:** HTML, CSS, C and C++
+- **Also into:** microcontrollers (ESP32 / Arduino), cryptography and building study tools
+- **Reach me:** [Contact form](https://ed13s.github.io/feedback.html)
 
 </td>
 <td width="40%" align="center" valign="middle">
