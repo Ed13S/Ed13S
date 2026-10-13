@@ -47,13 +47,19 @@
 
 <div align="center">
 
-<a href="https://github.com/Ed13S/WB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ed13S&repo=WB&theme=tokyonight&hide_border=true&show_owner=true" alt="WB repo card" />
+<a href="https://github.com/Ed13S/Message-Encryptor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ed13S&repo=Message-Encryptor&theme=tokyonight&hide_border=true&show_owner=true" alt="Message-Encryptor repo card" />
 </a>
+
+<br/>
+
+<a href="https://message-encryptor-yvo6.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-OTP%20Station-22c55e?style=for-the-badge&logo=render&logoColor=white&labelColor=312e81" alt="Live demo" /></a>
+<a href="https://github.com/Ed13S/Message-Encryptor"><img src="https://img.shields.io/badge/Source-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=312e81" alt="Source" /></a>
+<img src="https://img.shields.io/badge/Python-Flask-0ea5e9?style=for-the-badge&logo=flask&logoColor=white&labelColor=312e81" alt="Python Flask" />
 
 </div>
 
-> **WB** is an interactive Systems Engineering & Physics 3&4 study guide in a single HTML file. It has live animated diagrams, flashcards, progress tracking, site search and an optional AI tutor panel. [See the repo →](https://github.com/Ed13S/WB)
+> **📟 OTP Station** is a web app for **one-time-pad encryption**. You generate a pad of random shift values, encrypt a message with it, and decrypting burns the pad so it can never be reused. It also has a password-protected vault for burned pads, pad backup and upload, and a purge switch. Built with Python and Flask. [Try it live →](https://message-encryptor-yvo6.onrender.com/)
 
 <br/>
 
