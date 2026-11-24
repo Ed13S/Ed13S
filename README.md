@@ -26,10 +26,12 @@
 <td width="60%" valign="top">
 
 - 🖋️ **Name:** Eddie Singh
+- ⚡︎ **Age:** 16
 - 🔭 **Currently working on:** Automator apps and website development
 - 🌱 **Currently learning:** HTML, CSS, C and C++
 - ⚡ **Also into:** microcontrollers (ESP32 / Arduino), cryptography and building study tools
 - 📫 **Reach me:** [Contact form](https://ed13s.github.io/feedback.html)
+
 
 </td>
 <td width="40%" align="center" valign="middle">
