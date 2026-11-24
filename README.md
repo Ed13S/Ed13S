@@ -71,7 +71,7 @@
 | 🔐 | **[Applied Caesar Cryptography](https://message-encryptor-yvo6.onrender.com/)** | ⭐ *Main project* |
 | 🎮 | **[Scratch](https://tinyurl.com/Siaoq1)** | My Scratch profile |
 | 🕹️ | **[Idle Website](https://tinyurl.com/Idle-website)** | Interactive hub |
-| 📝 | **[Eddie13S main website](https://eddie13s.wordpress.com)** | Official WordPress site |
+| 📝 | **[Ed13S main website](https://ed13s.github.io/)** | Official site |
 
 <br/>
 
